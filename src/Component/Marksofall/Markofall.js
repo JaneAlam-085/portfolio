@@ -2,10 +2,10 @@ import React from 'react'
 
 export default function Markofall() {
   return (
-    <div id="Education" classNameName='p-10 md:p-24 -mt-20 md:-mt-48 '>
-            <h1 classNameName='flex flex-wrap text-2xl md:my-10 md:text-4xl text-white font-bold'>Education Detail</h1>
+    <div id="Education" className='p-10 md:p-24 -mt-20 md:-mt-48 '>
+            <h1 className='flex flex-wrap text-2xl md:my-10 md:text-4xl text-white font-bold'>Education Detail</h1>
     
-            <div classNameName='text-white  flex gap-5 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-6 items-center'>
+            <div className='text-white  flex gap-5 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-6 items-center'>
 
 
 
@@ -91,7 +91,7 @@ export default function Markofall() {
     </table>
 </div>
             </div>
-            <hr classNameName="h-0.5 my-8 mx:4 hover:mx-auto bg-slate-100 border dark:bg-slate-50"></hr>
+            <hr className="h-0.5 my-8 mx:4 hover:mx-auto bg-slate-100 border dark:bg-slate-50"></hr>
     </div>
   )
 }
